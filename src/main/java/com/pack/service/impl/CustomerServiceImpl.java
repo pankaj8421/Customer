@@ -23,6 +23,8 @@ public class CustomerServiceImpl implements CustomerService {
 		Customer cust=op.get();
 		Integer custId=cust.getCustomerId();
 		System.out.println(custId);
+		//hii hello
+		
 		return op;
 	}
 
